@@ -1,0 +1,11 @@
+git init
+git add *
+$ git commit -m 
+لصق عنوان الصفحة 
+git push origin master
+
+عند التغير
+$ git status
+git add .
+$ git status
+$ git commit -m التعليق""
